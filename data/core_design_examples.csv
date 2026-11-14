@@ -1,0 +1,4 @@
+case_id,peak_flux_density_t,frequency_hz,gross_area_mm2,stacking_factor,equivalent_path_m,assumed_density_kg_per_m3,assumed_strip_loss_w_per_kg,assumed_building_factor,net_area_mm2,estimated_steel_mass_kg,strip_loss_baseline_w,estimated_core_loss_w
+illustrative-01,1.70,50,10000,0.960,2.00,7650,0.80,1.10,9600,146.8800,117.5040,129.2544
+illustrative-02,1.60,50,12000,0.955,2.40,7650,0.72,1.15,11460,210.4056,151.4920,174.2158
+illustrative-03,1.65,60,8500,0.970,1.80,7650,0.92,1.08,8245,113.5337,104.4510,112.8070

@@ -1,0 +1,5 @@
+mill,grade,nominal_thickness_mm,reported_magnetic_level_t,frequency_hz,typical_specific_total_loss_w_per_kg,maximum_specific_total_loss_w_per_kg,typical_source_url,maximum_source_url
+Shougang,23SQGD085,0.23,1.7,50,0.80,0.85,https://www.shougang.com.cn/u/cms/www/202412/2024122703.pdf#page=9,https://www.shougang.com.cn/u/cms/www/202412/2024122703.pdf#page=8
+Shougang,23SQGD085,0.23,1.7,60,1.04,,https://www.shougang.com.cn/u/cms/www/202412/2024122703.pdf#page=9,
+Baosteel,B23R080,0.23,1.7,50,0.77,0.79,https://ecommerce.ibaosteel.com/baosteel/manufacturerStandard/pdf2023/BQB%20485-2023.pdf#page=27,https://ecommerce.ibaosteel.com/baosteel/manufacturerStandard/pdf2023/BQB%20485-2023.pdf#page=12
+Baosteel,B23R080,0.23,1.7,60,1.01,1.04,https://ecommerce.ibaosteel.com/baosteel/manufacturerStandard/pdf2023/BQB%20485-2023.pdf#page=27,https://ecommerce.ibaosteel.com/baosteel/manufacturerStandard/pdf2023/BQB%20485-2023.pdf#page=12
